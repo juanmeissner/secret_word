@@ -1,4 +1,4 @@
-export const wordlist = {
+export const wordsList = {
     profissao: [
         "Agrônomo",
         "Advogado",
@@ -93,7 +93,7 @@ export const wordlist = {
         "Girafa",
         "Jacaré",
         "Cobra",
-        "Águia",
+        "Ýguia",
         "Lobo",
         "Urso",
         "Rinoceronte",
@@ -148,7 +148,7 @@ export const wordlist = {
         "Flor de Lavanda",
         "Flor de Dália",
         "Flor de Gardênia",
-        "Flor de Íris",
+        "Flor de Ýris",
         "Flor de Violeta",
         "Flor de Dente-de-Leão",
         "Flor de Tulipa",
